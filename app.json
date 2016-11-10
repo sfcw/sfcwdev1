@@ -1,0 +1,23 @@
+{
+  "name": "sfcwdev1",
+  "description": "sfcwdev1repo",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+    "butter",
+    "filepicker",
+    "herokuconnect",
+    "m2x",
+    "heroku-postgresql",
+    "heroku-postgresql",
+    "shogun",
+    "xplenty"
+  ],
+  "buildpacks": [
+
+  ]
+}
