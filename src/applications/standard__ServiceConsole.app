@@ -173,7 +173,19 @@
     <tab>standard-Opportunity</tab>
     <tab>standard-Lead</tab>
     <tab>standard-Knowledge</tab>
+    <tab>Location__c</tab>
+    <tab>Up__c</tab>
+    <tab>UserLocation__c</tab>
     <workspaceMappings>
+        <mapping>
+            <tab>Location__c</tab>
+        </mapping>
+        <mapping>
+            <tab>Up__c</tab>
+        </mapping>
+        <mapping>
+            <tab>UserLocation__c</tab>
+        </mapping>
         <mapping>
             <tab>standard-Account</tab>
         </mapping>

@@ -6,4 +6,7 @@
     <tab>standard-ContentSearch</tab>
     <tab>standard-ContentSubscriptions</tab>
     <tab>standard-ContentFavorites</tab>
+    <tab>Location__c</tab>
+    <tab>Up__c</tab>
+    <tab>UserLocation__c</tab>
 </CustomApplication>

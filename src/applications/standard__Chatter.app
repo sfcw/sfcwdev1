@@ -6,4 +6,7 @@
     <tab>standard-OtherUserProfile</tab>
     <tab>standard-CollaborationGroup</tab>
     <tab>standard-File</tab>
+    <tab>Location__c</tab>
+    <tab>Up__c</tab>
+    <tab>UserLocation__c</tab>
 </CustomApplication>

@@ -3,4 +3,7 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <tab>standard-Chatter</tab>
     <tab>standard-Sites</tab>
+    <tab>Location__c</tab>
+    <tab>Up__c</tab>
+    <tab>UserLocation__c</tab>
 </CustomApplication>

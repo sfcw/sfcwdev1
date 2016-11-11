@@ -6,4 +6,7 @@
     <tab>standard-Contact</tab>
     <tab>standard-report</tab>
     <tab>standard-Dashboard</tab>
+    <tab>Location__c</tab>
+    <tab>Up__c</tab>
+    <tab>UserLocation__c</tab>
 </CustomApplication>

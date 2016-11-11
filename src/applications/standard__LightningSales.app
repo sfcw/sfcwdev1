@@ -18,5 +18,8 @@
     <tab>standard-Case</tab>
     <tab>standard-News</tab>
     <tab>standard-ForecastingLightning</tab>
+    <tab>Location__c</tab>
+    <tab>Up__c</tab>
+    <tab>UserLocation__c</tab>
     <uiType>Lightning</uiType>
 </CustomApplication>
