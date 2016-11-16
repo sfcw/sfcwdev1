@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Profile xmlns="http://soap.sforce.com/2006/04/metadata">
     <applicationVisibilities>
-        <application>standard__AppLauncher</application>
+        <application>RV_LocationDay</application>
         <default>true</default>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <applicationVisibilities>
+        <application>standard__AppLauncher</application>
+        <default>false</default>
         <visible>true</visible>
     </applicationVisibilities>
     <applicationVisibilities>
@@ -1241,6 +1246,10 @@
         <field>UserLocation__c.Role_Profile__c</field>
         <readable>true</readable>
     </fieldPermissions>
+    <pageAccesses>
+        <apexPage>sales</apexPage>
+        <enabled>false</enabled>
+    </pageAccesses>
     <recordTypeVisibilities>
         <default>true</default>
         <recordType>Account.Household</recordType>

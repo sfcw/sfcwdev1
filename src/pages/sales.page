@@ -1,0 +1,34 @@
+<apex:page standardController="Account" sidebar="false" id="sales">
+ <apex:pageBlock >
+ <apex:pageBlockSection title="Rv Location Simulator" columns="1">
+  A test sim for CWGS sales proccess tester
+ <apex:pageBlockSectionItem >  Select Your Desired Location:  </apex:pageBlockSectionItem>
+ 
+ <apex:pageBlockSectionItem ></apex:pageBlockSectionItem>
+ <apex:pageBlockSectionItem > Select Your User Type:</apex:pageBlockSectionItem>
+
+
+  Receptionist -Greeter- Opener -  Round Control Power User
+
+ 
+ 
+
+ <apex:pageBlockSectionItem >
+ <apex:selectOption >Salesperson</apex:selectOption>
+ <apex:selectOption >Sales Manager</apex:selectOption>
+</apex:pageBlockSectionItem>
+ 
+
+ 
+ 
+ </apex:pageBlockSection>
+ 
+ 
+ 
+ </apex:pageBlock>
+ 
+ 
+ 
+
+ 
+</apex:page>

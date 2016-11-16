@@ -552,7 +552,7 @@
             <operation>equals</operation>
             <value>Account.Location</value>
         </filters>
-        <label>RV Sales Location Accounts</label>
+        <label>10 RV Sales Location Accounts</label>
     </listViews>
     <recordTypeTrackFeedHistory>false</recordTypeTrackFeedHistory>
     <recordTypes>
